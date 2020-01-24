@@ -1,0 +1,7 @@
+db.sqlite3
+geckodriver.log
+virtualenv
+tags
+.ropeproject/
+__pycache__
+*.pyc
